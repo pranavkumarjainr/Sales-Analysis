@@ -1,4 +1,4 @@
-# Pizza Shop Sales Analysis | SQL & Power BI
+# Sales Analysis | SQL & Power BI
 
 ## Project Overview
 An end-to-end data analytics project designed to extract, transform, and visualize pizza sales data. This project leverages SQL Server for robust data processing and Power BI to deliver an interactive executive dashboard, providing actionable insights to optimize operations, menu offerings, and overall revenue.
